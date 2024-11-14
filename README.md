@@ -1,3 +1,3 @@
-# Richard Roop,PMP
-# Project Management
-Additional details on my experience and my skills
+# RICHARD ROOP, PMP
+# Additional Project Management Details
+The files above add context on my experience and my skills
